@@ -1,0 +1,10 @@
+D:\C# Projects\OriDETASrr\bin\OriDETAS.dll
+D:\C# Projects\OriDETASrr\bin\OriDETAS.pdb
+D:\C# Projects\OriDETASrr\bin\Assembly-CSharp.dll
+D:\C# Projects\OriDETASrr\bin\UnityEngine.dll
+D:\C# Projects\OriDETASrr\bin\XInputDotNetPure.dll
+D:\C# Projects\OriDETASrr\obj\Debug\OriDETAS.csprojResolveAssemblyReference.cache
+D:\C# Projects\OriDETASrr\obj\Debug\OriDETAS.Properties.Resources.resources
+D:\C# Projects\OriDETASrr\obj\Debug\OriDETAS.csproj.GenerateResource.Cache
+D:\C# Projects\OriDETASrr\obj\Debug\OriDETAS.dll
+D:\C# Projects\OriDETASrr\obj\Debug\OriDETAS.pdb
