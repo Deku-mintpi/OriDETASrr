@@ -3,10 +3,12 @@ Tool Assisted Modification for Ori and the Blind Forest DE with Rerecording
 
 Original TAS tool can be found at https://github.com/ShootMe/OriDETAS
 
+This modification uses [XInputDotNet](https://github.com/speps/XInputDotNet)
+
 Open Ori in your Steam directory (usually C:\Program Files (x86)\Steam\steamapps\common\Ori DE\)
 
 ### Setup
-	Copy Assembly-CSharp.dll and OriDETAS.dll to (Ori DE\Ori_Data\Managed\) from the above directory.
+	Copy Assembly-CSharp.dll, OriDETAS.dll, and XInputInterface.dll to (Ori DE\Ori_Data\Managed\) from the above directory.
 	
 	Make sure to backup the original Assembly-CSharp.dll before hand.
 
